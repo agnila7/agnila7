@@ -13,13 +13,13 @@
 
 - 🌱 I’m currently learning **java, Springboot, aws**
 
-<!--- 👨‍💻 All of my projects are available at [agnila@agnilabarua.click](agnila@agnilabarua.click)
-
-- 📫 How to reach me **baruaagnila7@gmail.com** --!>
-
 - 📄 Know about my experiences [M.A.Sc from University of Windsor, Currently interested in springboot]
 
 - ⚡ Fun fact **wanna be an actress lol**
+
+<!--- 👨‍💻 All of my projects are available at [agnila@agnilabarua.click](agnila@agnilabarua.click)
+
+- 📫 How to reach me **baruaagnila7@gmail.com** --!>
 
 <div align="center">
 

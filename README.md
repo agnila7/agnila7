@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **java, Springboot, aws**
 
-- 📄 Know about my experiences [M.A.Sc from University of Windsor, Worked on AWS Deployments, Automation, Java, HTML, CSS, Angular(some part of projects) Currently interested in springboot]
+- 📄 Know about my experiences [M.A.Sc from University of Windsor, Worked on Java, HTML, CSS, Angular(some part of projects), SQL, Mongodb, AWS Deployments, Automation, Currently interested in springboot]
 
 - ⚡ Fun fact **wanna be an actress lol**
 
